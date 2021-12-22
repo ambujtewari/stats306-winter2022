@@ -1,4 +1,4 @@
-**WARNING** This website for the Winter 2022 offering is still under construction. Lots of material below refers to the Winter 2022 version and will be updated soon!
+**WARNING** This website for the Winter 2022 offering is still under construction. Lots of material below refers to the Winter 2021 version and will be updated soon!
 
 ## Welcome to STATS 306 / DATA SCI 306
 
