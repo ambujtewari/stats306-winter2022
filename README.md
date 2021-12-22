@@ -18,7 +18,7 @@ This is an introductory statistical computing course based on the R programming 
 
 ## GSI Information
 
-**Name**: Benjamin Osafo Agyare
+**Name**: Benjamin Osafo Agyare    
 **Lab Webpage**: TBD   
 **Email**: [bagyare@umich.edu](mailto:bagyare@umich.edu)
 
