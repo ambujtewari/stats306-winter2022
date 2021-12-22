@@ -79,8 +79,8 @@ Lecture No. | Date | Topic | Reading Assignment
 08 |   | EDA (Typical and Unusual Values, Missing Values) | [Section 7.3.2-7.3.3](https://r4ds.had.co.nz/exploratory-data-analysis.html#typical-values), [Section 7.4](https://r4ds.had.co.nz/exploratory-data-analysis.html#missing-values-2)
 09 |   | EDA (Covariation) | [Section 7.5](https://r4ds.had.co.nz/exploratory-data-analysis.html#covariation), [Section 7.7](https://r4ds.had.co.nz/exploratory-data-analysis.html#ggplot2-calls)
 10 |   | Tibbles and Data Import | [Section 10.1-10.4](https://r4ds.had.co.nz/tibbles.html#introduction-4), [Section 11.1-11.2](https://r4ds.had.co.nz/data-import.html#introduction-5), [Section 11.5](https://r4ds.had.co.nz/data-import.html#writing-to-a-file)
-11 | -- | Midterm review |
--- |  | Midterm Exam | 
+11 |   | Midterm review |
+-- |   | Midterm Exam | 
 12 |   | Tidy Data, Pivoting | [Section 12.1-12.3](https://r4ds.had.co.nz/tidy-data.html#introduction-6)
 13 |   | Separate and Unite, Missing Values | [Section 12.4-12.5](https://r4ds.had.co.nz/tidy-data.html#separating-and-uniting)
 14 |   | String Basics | [Section 14.1-14.2](https://r4ds.had.co.nz/strings.html#introduction-8)
