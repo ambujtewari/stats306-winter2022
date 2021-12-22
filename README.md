@@ -1,3 +1,5 @@
+**WARNING** This website for the Winter 2022 offering is still under construction. Lots of material below refers to the Winter 2022 version and will be updated soon!
+
 ## Welcome to STATS 306 / DATA SCI 306
 
 This is an introductory statistical computing course based on the R programming language. Topics covered include data wrangling, data visualization, basics of programming in R, and basics of statistical modeling.
@@ -10,7 +12,7 @@ This is an introductory statistical computing course based on the R programming 
 ## Instructor Information
 
 **Name**: Ambuj Tewari  
-**Office Hours**: Via Zoom, Mon thru Thu, 8:30 pm - 9:00 pm ET (see canvas for Zoom link). Will also be answering questions on slack at various times during the week.  
+**Office Hours**: TBD
 **Email**: [tewaria@umich.edu](mailto:tewaria@umich.edu)
 
 ## GSI Information
