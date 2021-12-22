@@ -1,12 +1,14 @@
 ## Welcome to STATS 306 / DATA SCI 306
 
-This is an introductory statistical computing course based on the R programming language. Topics covered include data wrangling, data visualization, basics of programming in R, and basics of statistical modeling.
+This is an introductory statistical computing course based on the R programming language and the tidyverse package. Topics covered include data wrangling, data visualization, basics of programming in R, and basics of statistical modeling.
 
 - **Textbook**: We will use _R for Data Science_ by Grolemund and Wickham. It is available both as a printed book and as an [online resource](https://r4ds.had.co.nz/).
 - **Canvas**: You should access the [Canvas class page](https://umich.instructure.com/courses/494634) for this course frequently. It will let you access important announcements, homework assignments, and exams. (requires UM login)
 - **Slack**: The slack workspace for the course is at [um-wn22-stats306.slack.com](https://um-wn22-stats306.slack.com) (requires UM login)
 - **Binder**: All lecture notebooks can be accessed by clicking the button below  
 [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/ambujtewari/stats306-winter2022/main)
+- **Days and Times**: Mondays and Wednesdays, 10-11:30
+- **Location**: 1202 [SEB](https://maps.studentlife.umich.edu/building/school-of-education)
 
 ## Instructor Information
 
@@ -66,7 +68,7 @@ Students may experience stressors that can impact both their academic experience
 
 Lecture No. | Date | Topic | Reading Assignment
 --- | --- | --- | ---
-00 | Jan 20 | Introduction | [Chapter 1](https://r4ds.had.co.nz/introduction.html)
+00 | Jan 05 | Introduction | [Chapter 1](https://r4ds.had.co.nz/introduction.html)
 01 |   | Data Visualization (Aesthetic Mappings, Scatter Plots) | [Section 3.1-3.4](https://r4ds.had.co.nz/data-visualisation.html#introduction-1)
 02 |   | Data Visualization (Facets, Geometric Objects) | [Section 3.5-3.6](https://r4ds.had.co.nz/data-visualisation.html#facets)
 03 |   | Data Visualization (Statistical Transformations, Position Adjustments, Coordinates) | [Section 3.7-3.10](https://r4ds.had.co.nz/data-visualisation.html#statistical-transformations)
