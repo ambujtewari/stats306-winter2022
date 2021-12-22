@@ -27,7 +27,7 @@ This is an introductory statistical computing course based on the R programming 
 **Email**: [pchatha@umich.edu](mailto:pchatha@umich.edu)
 
 **Name**: Victor Verma  
-**Lab Webpage**: TBD
+**Lab Webpage**: TBD    
 **Email**: [vkverma@umich.edu](mailto:vkverma@umich.edu)
 
 ## Grading
