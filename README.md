@@ -26,6 +26,10 @@ This is an introductory statistical computing course based on the R programming 
 **Lab Webpage**: TBD    
 **Email**: [pchatha@umich.edu](mailto:pchatha@umich.edu)
 
+**Name**: Heather Johnston  
+**Lab Webpage**: TBD    
+**Email**: [hajohns@umich.edu](mailto:hajohns@umich.edu)
+
 **Name**: Victor Verma  
 **Lab Webpage**: TBD    
 **Email**: [vkverma@umich.edu](mailto:vkverma@umich.edu)
