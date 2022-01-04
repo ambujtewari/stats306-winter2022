@@ -5,7 +5,7 @@ This is an introductory statistical computing course based on the R programming 
 - **Textbook**: We will use _R for Data Science_ by Grolemund and Wickham. It is available both as a printed book and as an [online resource](https://r4ds.had.co.nz/).
 - **Canvas**: You should access the [Canvas class page](https://umich.instructure.com/courses/494634) for this course frequently. It will let you access important announcements, homework assignments, and exams. (requires UM login)
 - **Slack**: The slack workspace for the course is at [um-wn22-stats306.slack.com](https://um-wn22-stats306.slack.com) (requires UM login)
-- **Colab**: All lecture notebooks can be accessed in Google Colab by clicking the button below
+- **Colab**: All lecture notebooks can be accessed in Google Colab by clicking the button below    
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ambujtewari/stats306-winter2022/blob/master/)
 - **Binder**: All lecture notebooks can be accessed in Binder by clicking the button below  
 [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/ambujtewari/stats306-winter2022/main)
