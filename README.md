@@ -20,7 +20,7 @@ _Note: Due to the omicron surge, all office hours will be held via zoom until fu
 
 ## GSI Information
 
-_Note: Lab webpages also have office hour information._
+_Note: Lab webpages also have GSI office hour information._
 
 **Name**: Benjamin Osafo Agyare    
 **Lab Webpage**: [https://bosafoagyare.netlify.app/courses/stats306-w22/](https://bosafoagyare.netlify.app/courses/stats306-w22/)    
