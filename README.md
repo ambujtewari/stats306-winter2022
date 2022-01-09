@@ -20,8 +20,10 @@ _Note: Due to the omicron surge, all office hours will be held via zoom until fu
 
 ## GSI Information
 
+_Note: Lab webpages also have office hour information._
+
 **Name**: Benjamin Osafo Agyare    
-**Lab Webpage**: TBD   
+**Lab Webpage**: [https://bosafoagyare.netlify.app/courses/stats306-w22/](https://bosafoagyare.netlify.app/courses/stats306-w22/)    
 **Email**: [bagyare@umich.edu](mailto:bagyare@umich.edu)
 
 **Name**: Prayag Chatha  
@@ -29,11 +31,11 @@ _Note: Due to the omicron surge, all office hours will be held via zoom until fu
 **Email**: [pchatha@umich.edu](mailto:pchatha@umich.edu)
 
 **Name**: Heather Johnston  
-**Lab Webpage**: TBD    
+**Lab Webpage**: [https://sites.google.com/umich.edu/lab005/](https://sites.google.com/umich.edu/lab005/)    
 **Email**: [hajohns@umich.edu](mailto:hajohns@umich.edu)
 
 **Name**: Victor Verma  
-**Lab Webpage**: TBD    
+**Lab Webpage**: [https://victorverma.github.io/stats_306_w22](https://victorverma.github.io/stats_306_w22)    
 **Email**: [vkverma@umich.edu](mailto:vkverma@umich.edu)
 
 ## Grading
