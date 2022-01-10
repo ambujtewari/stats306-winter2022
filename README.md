@@ -8,7 +8,7 @@ This is an introductory statistical computing course based on the R programming 
 - **Colab**: All lecture notebooks can be accessed in Google Colab by clicking here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ambujtewari/stats306-winter2022/blob/master/)
 - **Binder**: All lecture notebooks can be accessed in Binder by clicking here: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/ambujtewari/stats306-winter2022/main)
 - **Days and Times**: Mondays and Wednesdays, 10-11:30
-- **Location**: 1202 [SEB](https://maps.studentlife.umich.edu/building/school-of-education)
+- **Location**: 1202 [SEB](https://maps.studentlife.umich.edu/building/school-of-education) (for virtual lectures, you can find the zoom link in canvas and slack)
 
 ## Instructor Information
 
