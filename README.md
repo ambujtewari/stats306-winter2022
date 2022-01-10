@@ -12,7 +12,7 @@ This is an introductory statistical computing course based on the R programming 
 
 ## Instructor Information
 
-_Note: Due to the omicron surge, all office hours will be held via zoom until further notice._
+_Note: Due to the omicron surge, my office hours will be held via zoom until further notice._
 
 **Name**: Ambuj Tewari  
 **Office Hours**: Tue and Thu, 11:30-1 ([zoom link](https://umich.zoom.us/j/93781998446))    
