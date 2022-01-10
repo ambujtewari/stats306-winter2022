@@ -27,7 +27,7 @@ _Note: Lab webpages also have GSI office hour information._
 **Email**: [bagyare@umich.edu](mailto:bagyare@umich.edu)
 
 **Name**: Prayag Chatha  
-**Lab Webpage**: TBD    
+**Lab Webpage**: [https://chathasphere.github.io/teaching/stats306/](https://chathasphere.github.io/teaching/stats306/)    
 **Email**: [pchatha@umich.edu](mailto:pchatha@umich.edu)
 
 **Name**: Heather Johnston  
