@@ -79,16 +79,16 @@ Lecture No. | Date | Topic | Reading Assignment
 00 | Jan 05 | Introduction | [Chapter 1](https://r4ds.had.co.nz/introduction.html)
 01 | Jan 10 | Data Visualization (Aesthetic Mappings, Scatter Plots) | [Section 3.1-3.4](https://r4ds.had.co.nz/data-visualisation.html#introduction-1)
 02 | Jan 12 | Data Visualization (Facets, Geometric Objects) | [Section 3.5-3.6](https://r4ds.had.co.nz/data-visualisation.html#facets)
-   | Jan 17 | MLK Jr. Day
+-- | Jan 17 | MLK Jr. Day
 03 | Jan 19 | Data Visualization (Statistical Transformations, Position Adjustments, Coordinates) | [Section 3.7-3.10](https://r4ds.had.co.nz/data-visualisation.html#statistical-transformations)
-04 |   | Data Transformation (filter, arrange, select) | [Chapter 4](https://r4ds.had.co.nz/workflow-basics.html), [Section 5.1-5.4](https://r4ds.had.co.nz/transform.html#introduction-2)
-05 |   | Data Transformation (mutate) | [Section 5.5](https://r4ds.had.co.nz/transform.html#add-new-variables-with-mutate)
-06 |   | Data Transformation (summarize, pipes) | [Section 5.6](https://r4ds.had.co.nz/transform.html#grouped-summaries-with-summarise), [Chapter 18](https://r4ds.had.co.nz/pipes.html)
-07 |   | EDA (Visualizing Distributions) | [Section 7.1-7.2](https://r4ds.had.co.nz/exploratory-data-analysis.html#introduction-3), [Section 7.3.1](https://r4ds.had.co.nz/exploratory-data-analysis.html#visualising-distributions)
-08 |   | EDA (Typical and Unusual Values, Missing Values) | [Section 7.3.2-7.3.3](https://r4ds.had.co.nz/exploratory-data-analysis.html#typical-values), [Section 7.4](https://r4ds.had.co.nz/exploratory-data-analysis.html#missing-values-2)
-09 |   | EDA (Covariation) | [Section 7.5](https://r4ds.had.co.nz/exploratory-data-analysis.html#covariation), [Section 7.7](https://r4ds.had.co.nz/exploratory-data-analysis.html#ggplot2-calls)
-10 |   | Tibbles and Data Import | [Section 10.1-10.4](https://r4ds.had.co.nz/tibbles.html#introduction-4), [Section 11.1-11.2](https://r4ds.had.co.nz/data-import.html#introduction-5), [Section 11.5](https://r4ds.had.co.nz/data-import.html#writing-to-a-file)
-11 |   | Midterm review |
+04 | Jan 24 | Data Transformation (filter, arrange, select) | [Chapter 4](https://r4ds.had.co.nz/workflow-basics.html), [Section 5.1-5.4](https://r4ds.had.co.nz/transform.html#introduction-2)
+05 | Jan 26 | Data Transformation (mutate) | [Section 5.5](https://r4ds.had.co.nz/transform.html#add-new-variables-with-mutate)
+06 | Jan 31 | Data Transformation (summarize, pipes) | [Section 5.6](https://r4ds.had.co.nz/transform.html#grouped-summaries-with-summarise), [Chapter 18](https://r4ds.had.co.nz/pipes.html)
+07 | Feb 02 | EDA (Visualizing Distributions) | [Section 7.1-7.2](https://r4ds.had.co.nz/exploratory-data-analysis.html#introduction-3), [Section 7.3.1](https://r4ds.had.co.nz/exploratory-data-analysis.html#visualising-distributions)
+08 | Feb 07 | EDA (Typical and Unusual Values, Missing Values) | [Section 7.3.2-7.3.3](https://r4ds.had.co.nz/exploratory-data-analysis.html#typical-values), [Section 7.4](https://r4ds.had.co.nz/exploratory-data-analysis.html#missing-values-2)
+09 | Feb 09 | EDA (Covariation) | [Section 7.5](https://r4ds.had.co.nz/exploratory-data-analysis.html#covariation), [Section 7.7](https://r4ds.had.co.nz/exploratory-data-analysis.html#ggplot2-calls)
+10 | Feb 14 | Tibbles and Data Import | [Section 10.1-10.4](https://r4ds.had.co.nz/tibbles.html#introduction-4), [Section 11.1-11.2](https://r4ds.had.co.nz/data-import.html#introduction-5), [Section 11.5](https://r4ds.had.co.nz/data-import.html#writing-to-a-file)
+11 | Feb 16 | Midterm review |
 -- |   | Midterm Exam | 
 12 |   | Tidy Data, Pivoting | [Section 12.1-12.3](https://r4ds.had.co.nz/tidy-data.html#introduction-6)
 13 |   | Separate and Unite, Missing Values | [Section 12.4-12.5](https://r4ds.had.co.nz/tidy-data.html#separating-and-uniting)
