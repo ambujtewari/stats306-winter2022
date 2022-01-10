@@ -80,7 +80,7 @@ Lecture No. | Date | Topic | Reading Assignment
 --- | --- | --- | ---
 00 | Jan 05 | Introduction | [Chapter 1](https://r4ds.had.co.nz/introduction.html)
 01 | Jan 10 <br/> V | Data Visualization (Aesthetic Mappings, Scatter Plots) | [Section 3.1-3.4](https://r4ds.had.co.nz/data-visualisation.html#introduction-1)
-02 | Jan 12 | Data Visualization (Facets, Geometric Objects) | [Section 3.5-3.6](https://r4ds.had.co.nz/data-visualisation.html#facets)
+02 | Jan 12 <br/> V | Data Visualization (Facets, Geometric Objects) | [Section 3.5-3.6](https://r4ds.had.co.nz/data-visualisation.html#facets)
 -- | Jan 17 | MLK Jr. Day
 03 | Jan 19 | Data Visualization (Statistical Transformations, Position Adjustments, Coordinates) | [Section 3.7-3.10](https://r4ds.had.co.nz/data-visualisation.html#statistical-transformations)
 04 | Jan 24 | Data Transformation (filter, arrange, select) | [Chapter 4](https://r4ds.had.co.nz/workflow-basics.html), [Section 5.1-5.4](https://r4ds.had.co.nz/transform.html#introduction-2)
