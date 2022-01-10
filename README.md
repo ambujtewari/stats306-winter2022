@@ -74,10 +74,12 @@ Students may experience stressors that can impact both their academic experience
 
 ## Schedule
 
+_Note_: A "V" next to a date denotes a virtual lecture
+
 Lecture No. | Date | Topic | Reading Assignment
 --- | --- | --- | ---
 00 | Jan 05 | Introduction | [Chapter 1](https://r4ds.had.co.nz/introduction.html)
-01 | Jan 10 | Data Visualization (Aesthetic Mappings, Scatter Plots) | [Section 3.1-3.4](https://r4ds.had.co.nz/data-visualisation.html#introduction-1)
+01 | Jan 10 V | Data Visualization (Aesthetic Mappings, Scatter Plots) | [Section 3.1-3.4](https://r4ds.had.co.nz/data-visualisation.html#introduction-1)
 02 | Jan 12 | Data Visualization (Facets, Geometric Objects) | [Section 3.5-3.6](https://r4ds.had.co.nz/data-visualisation.html#facets)
 -- | Jan 17 | MLK Jr. Day
 03 | Jan 19 | Data Visualization (Statistical Transformations, Position Adjustments, Coordinates) | [Section 3.7-3.10](https://r4ds.had.co.nz/data-visualisation.html#statistical-transformations)
