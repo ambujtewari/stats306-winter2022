@@ -83,8 +83,8 @@ Lecture No. | Date | Topic | Reading Assignment
 02 | Jan 12 <br/> V | Data Visualization (Facets, Geometric Objects) | [Section 3.5-3.6](https://r4ds.had.co.nz/data-visualisation.html#facets)
 -- | Jan 17 | MLK Jr. Day
 03 | Jan 19 <br/> V | Data Visualization (Statistical Transformations, Position Adjustments, Coordinates) | [Section 3.7-3.10](https://r4ds.had.co.nz/data-visualisation.html#statistical-transformations)
-04 | Jan 24 | Data Transformation (filter, arrange, select) | [Chapter 4](https://r4ds.had.co.nz/workflow-basics.html), [Section 5.1-5.4](https://r4ds.had.co.nz/transform.html#introduction-2)
-05 | Jan 26 | Data Transformation (mutate) | [Section 5.5](https://r4ds.had.co.nz/transform.html#add-new-variables-with-mutate)
+04 | Jan 24 <br/> V | Data Transformation (filter, arrange, select) | [Chapter 4](https://r4ds.had.co.nz/workflow-basics.html), [Section 5.1-5.4](https://r4ds.had.co.nz/transform.html#introduction-2)
+05 | Jan 26 <br/> V | Data Transformation (mutate) | [Section 5.5](https://r4ds.had.co.nz/transform.html#add-new-variables-with-mutate)
 06 | Jan 31 | Data Transformation (summarize, pipes) | [Section 5.6](https://r4ds.had.co.nz/transform.html#grouped-summaries-with-summarise), [Chapter 18](https://r4ds.had.co.nz/pipes.html)
 07 | Feb 02 | EDA (Visualizing Distributions) | [Section 7.1-7.2](https://r4ds.had.co.nz/exploratory-data-analysis.html#introduction-3), [Section 7.3.1](https://r4ds.had.co.nz/exploratory-data-analysis.html#visualising-distributions)
 08 | Feb 07 | EDA (Typical and Unusual Values, Missing Values) | [Section 7.3.2-7.3.3](https://r4ds.had.co.nz/exploratory-data-analysis.html#typical-values), [Section 7.4](https://r4ds.had.co.nz/exploratory-data-analysis.html#missing-values-2)
