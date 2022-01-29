@@ -103,10 +103,10 @@ Lecture No. | Date | Topic | Reading Assignment
 12 | Mar 07 | Tidy Data, Pivoting | [Section 12.1-12.3](https://r4ds.had.co.nz/tidy-data.html#introduction-6)
 13 | Mar 09 | Separate and Unite, Missing Values | [Section 12.4-12.5](https://r4ds.had.co.nz/tidy-data.html#separating-and-uniting)
 14 | Mar 14 | String Basics | [Section 14.1-14.2](https://r4ds.had.co.nz/strings.html#introduction-8)
-   | Mar 14 | HW 4 OUT
+-- | Mar 14 | HW 4 OUT
 15 | Mar 16 | Regular Expressions (Basics, Anchors, Character Classes, Alternatives) | [Section 14.3.1-14.3.3](https://r4ds.had.co.nz/strings.html#basic-matches)
 16 | Mar 21 | Regular Expressions (Repetition, Grouping, Detecting, Extracting) | [Section 14.3.4-14.3.5](https://r4ds.had.co.nz/strings.html#repetition), [Section 14.4.1-14.4.2](https://r4ds.had.co.nz/strings.html#detect-matches)
-   | Mar 21 | HW 4 DUE <br/> HW 5 OUT
+-- | Mar 21 | HW 4 DUE <br/> HW 5 OUT
 17 | Mar 23 | More Regular Expression Tools, stringi package | [Section 14.4.3-14.4.6](https://r4ds.had.co.nz/strings.html#grouped-matches), [Section 14.7](https://r4ds.had.co.nz/strings.html#stringi)
 18 | Mar 28 | Functions | [Section 19.1-19.6](https://r4ds.had.co.nz/functions.html#introduction-12)
 -- | Mar 28 | HW 5 DUE
