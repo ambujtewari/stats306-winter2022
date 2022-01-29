@@ -88,12 +88,18 @@ Lecture No. | Date | Topic | Reading Assignment
 04 | Jan 24 <br/> V | Data Transformation (filter, arrange, select) | [Chapter 4](https://r4ds.had.co.nz/workflow-basics.html), [Section 5.1-5.4](https://r4ds.had.co.nz/transform.html#introduction-2)
 05 | Jan 26 <br/> V | Data Transformation (mutate) | [Section 5.5](https://r4ds.had.co.nz/transform.html#add-new-variables-with-mutate)
 06 | Jan 31 | Data Transformation (summarize, pipes) | [Section 5.6](https://r4ds.had.co.nz/transform.html#grouped-summaries-with-summarise), [Chapter 18](https://r4ds.had.co.nz/pipes.html)
+-- | Jan 31 | HW 2 OUT
 07 | Feb 02 | EDA (Visualizing Distributions) | [Section 7.1-7.2](https://r4ds.had.co.nz/exploratory-data-analysis.html#introduction-3), [Section 7.3.1](https://r4ds.had.co.nz/exploratory-data-analysis.html#visualising-distributions)
 08 | Feb 07 | EDA (Typical and Unusual Values, Missing Values) | [Section 7.3.2-7.3.3](https://r4ds.had.co.nz/exploratory-data-analysis.html#typical-values), [Section 7.4](https://r4ds.had.co.nz/exploratory-data-analysis.html#missing-values-2)
+-- | Feb 07 | HW 2 DUE <br/> HW 3 OUT
 09 | Feb 09 | EDA (Covariation) | [Section 7.5](https://r4ds.had.co.nz/exploratory-data-analysis.html#covariation), [Section 7.7](https://r4ds.had.co.nz/exploratory-data-analysis.html#ggplot2-calls)
 10 | Feb 14 | Tibbles and Data Import | [Section 10.1-10.4](https://r4ds.had.co.nz/tibbles.html#introduction-4), [Section 11.1-11.2](https://r4ds.had.co.nz/data-import.html#introduction-5), [Section 11.5](https://r4ds.had.co.nz/data-import.html#writing-to-a-file)
+-- | Feb 14 | HW 3 DUE
 11 | Feb 16 | Midterm review |
--- |   | Midterm Exam | 
+-- | Feb 17 | MIDTERM OUT
+-- | Feb 24 | MIDTERM DUE 
+-- | Feb 26 | SPRING BREAK BEGINS
+-- | Mar 06 | SPRING BREAK ENDS
 12 |   | Tidy Data, Pivoting | [Section 12.1-12.3](https://r4ds.had.co.nz/tidy-data.html#introduction-6)
 13 |   | Separate and Unite, Missing Values | [Section 12.4-12.5](https://r4ds.had.co.nz/tidy-data.html#separating-and-uniting)
 14 |   | String Basics | [Section 14.1-14.2](https://r4ds.had.co.nz/strings.html#introduction-8)
