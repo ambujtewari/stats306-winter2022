@@ -100,14 +100,21 @@ Lecture No. | Date | Topic | Reading Assignment
 -- | Feb 24 | MIDTERM DUE 
 -- | Feb 26 | SPRING BREAK BEGINS
 -- | Mar 06 | SPRING BREAK ENDS
-12 |   | Tidy Data, Pivoting | [Section 12.1-12.3](https://r4ds.had.co.nz/tidy-data.html#introduction-6)
-13 |   | Separate and Unite, Missing Values | [Section 12.4-12.5](https://r4ds.had.co.nz/tidy-data.html#separating-and-uniting)
-14 |   | String Basics | [Section 14.1-14.2](https://r4ds.had.co.nz/strings.html#introduction-8)
-15 |   | Regular Expressions (Basics, Anchors, Character Classes, Alternatives) | [Section 14.3.1-14.3.3](https://r4ds.had.co.nz/strings.html#basic-matches)
-16 |   | Regular Expressions (Repetition, Grouping, Detecting, Extracting) | [Section 14.3.4-14.3.5](https://r4ds.had.co.nz/strings.html#repetition), [Section 14.4.1-14.4.2](https://r4ds.had.co.nz/strings.html#detect-matches)
-17 |   | More Regular Expression Tools, stringi package | [Section 14.4.3-14.4.6](https://r4ds.had.co.nz/strings.html#grouped-matches), [Section 14.7](https://r4ds.had.co.nz/strings.html#stringi)
-18 |   | Functions | [Section 19.1-19.6](https://r4ds.had.co.nz/functions.html#introduction-12)
-19 |   | Vectors | [Section 20.1-20.5](https://r4ds.had.co.nz/vectors.html#introduction-13)
-20 |   | Iteration | [Section 21.1-21.5](https://r4ds.had.co.nz/iteration.html#introduction-14)
-21 |   | A Simple Model | [Section 23.1-23.2](https://r4ds.had.co.nz/model-basics.html#introduction-15)
--- |   | Final Exam | 
+12 | Mar 07 | Tidy Data, Pivoting | [Section 12.1-12.3](https://r4ds.had.co.nz/tidy-data.html#introduction-6)
+13 | Mar 09 | Separate and Unite, Missing Values | [Section 12.4-12.5](https://r4ds.had.co.nz/tidy-data.html#separating-and-uniting)
+14 | Mar 14 | String Basics | [Section 14.1-14.2](https://r4ds.had.co.nz/strings.html#introduction-8)
+   | Mar 14 | HW 4 OUT
+15 | Mar 16 | Regular Expressions (Basics, Anchors, Character Classes, Alternatives) | [Section 14.3.1-14.3.3](https://r4ds.had.co.nz/strings.html#basic-matches)
+16 | Mar 21 | Regular Expressions (Repetition, Grouping, Detecting, Extracting) | [Section 14.3.4-14.3.5](https://r4ds.had.co.nz/strings.html#repetition), [Section 14.4.1-14.4.2](https://r4ds.had.co.nz/strings.html#detect-matches)
+   | Mar 21 | HW 4 DUE <br/> HW 5 OUT
+17 | Mar 23 | More Regular Expression Tools, stringi package | [Section 14.4.3-14.4.6](https://r4ds.had.co.nz/strings.html#grouped-matches), [Section 14.7](https://r4ds.had.co.nz/strings.html#stringi)
+18 | Mar 28 | Functions | [Section 19.1-19.6](https://r4ds.had.co.nz/functions.html#introduction-12)
+-- | Mar 28 | HW 5 DUE
+19 | Mar 30 | Vectors | [Section 20.1-20.5](https://r4ds.had.co.nz/vectors.html#introduction-13)
+20 | Apr 04 | Iteration | [Section 21.1-21.5](https://r4ds.had.co.nz/iteration.html#introduction-14)
+-- | Apr 04 | HW 6 OUT
+21 | Apr 06 | A Simple Model | [Section 23.1-23.2](https://r4ds.had.co.nz/model-basics.html#introduction-15)
+22 | Apr 11 | BUFFER DAY
+-- | Apr 11 | HW 6 DUE
+-- | Apr 14 | FINAL OUT
+-- | Apr 21 | FINAL DUE
