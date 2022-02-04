@@ -1,6 +1,6 @@
 # Please read these instructions carefully
 
-- Exam should be turned in via canvas file uploads by 11:59 pm EST on Fe 22, 2022.
+- Exam should be turned in via canvas file uploads by 11:59 pm EST on Feb 22, 2022.
 - Late submissions will **NOT** be accepted (unless there is a documented emergency or other major disruption beyond your control).
 - You are allowed to use specific websites listed below, your own course notes, and a running R interpreter.
 - _If you use any website(s) not specifically listed as allowed, you MUST list it in your exam._
