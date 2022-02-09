@@ -9,8 +9,8 @@
 - No googling for answers! We reserve the right to run plagiarism detection software and report violations of academic integrity to the Dean's office.
 - There are a total of 4 problems. Make sure you look at the entire exam.
 - Make sure you only edit cells explicitly marked as solution cells.
-- Like homeworks, upload the **pdf** version of your completed exam before the due date
-- However, unlike homeworks, please **ALSO submit the actual notebook** (which has .ipynb extension)
+- Like homeworks, upload the **pdf** version of your completed exam before the due date. This will be your primary submission. Please ensure that your code and your output is clearly visible. If some of the code *we* supplied gets cut off, that's OK.
+- However, unlike homeworks, please **ALSO submit the actual notebook** (which has .ipynb extension). This will be your secondary sumbission. We reserve the right to ignore the notebook and only grade your exam based on the pdf you upload.
 - Make sure these packages are loaded: `tidyverse`
 - To ask questions use the `#midterm` channel in slack. If you ask privately we will post the questions and answer publicly (after removing your name)
 
