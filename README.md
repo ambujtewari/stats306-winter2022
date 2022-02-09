@@ -96,8 +96,8 @@ Lecture No. | Date | Topic | Reading Assignment
 10 | Feb 14 | Tibbles and Data Import | [Section 10.1-10.4](https://r4ds.had.co.nz/tibbles.html#introduction-4), [Section 11.1-11.2](https://r4ds.had.co.nz/data-import.html#introduction-5), [Section 11.5](https://r4ds.had.co.nz/data-import.html#writing-to-a-file)
 -- | Feb 14 | HW 3 DUE
 11 | Feb 16 | Midterm review |
--- | Feb 17 | MIDTERM OUT
--- | Feb 24 | MIDTERM DUE 
+-- | Feb 18 | MIDTERM OUT
+-- | Feb 25 | MIDTERM DUE 
 -- | Feb 26 | SPRING BREAK BEGINS
 -- | Mar 06 | SPRING BREAK ENDS
 12 | Mar 07 | Tidy Data, Pivoting | [Section 12.1-12.3](https://r4ds.had.co.nz/tidy-data.html#introduction-6)
