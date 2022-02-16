@@ -6,7 +6,7 @@
 - _If you use any website(s) not specifically listed as allowed, you MUST list it in your exam._
 - Failure to fully disclose resources that you used for the exam can result in loss of points.
 - You are **NOT** allowed to copy answers from anyone/anywhere including any online sources! All work must be your own.
-- No googling for answers! We reserve the right to run plagiarism detection software and report violations of academic integrity to the Dean's office.
+- No googling for answers! We reserve the right to run plagiarism detection software on your .ipynb files and report violations of academic integrity to the Dean's office.
 - There are a total of 4 problems. Make sure you look at the entire exam.
 - Make sure you only edit cells explicitly marked as solution cells.
 - Like homeworks, upload the **pdf** version of your completed exam before the due date. This will be your primary submission. Please ensure that your code and your output is clearly visible. If some of the code *we* supplied gets cut off, that's OK.
