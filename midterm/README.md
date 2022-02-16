@@ -29,3 +29,4 @@ You are allowed to use R in RStudio or a Jupyter notebook running on your comput
 - lecture notebooks on github: https://github.com/ambujtewari/stats306-winter2022
 - tidyverse website: https://www.tidyverse.org/
 - R documentation website: https://www.rdocumentation.org/
+- R Studio website: https://www.rstudio.com/
