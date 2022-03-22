@@ -106,12 +106,12 @@ Lecture No. | Date | Topic | Reading Assignment
 15 | Mar 16 | Regular Expressions (Basics, Anchors, Character Classes, Alternatives) <br/> HW 4 OUT| [Section 14.3.1-14.3.3](https://r4ds.had.co.nz/strings.html#basic-matches)
 16 | Mar 21 | Regular Expressions (Repetition, Grouping, Detecting, Extracting) | [Section 14.3.4-14.3.5](https://r4ds.had.co.nz/strings.html#repetition), [Section 14.4.1-14.4.2](https://r4ds.had.co.nz/strings.html#detect-matches)
 -- | Mar 23 | NO LECTURE
--- | Mar 25 | HW 4 DUE
-17 | Mar 28 | More Regular Expression Tools, stringi package <br/> HW 5 OUT| [Section 14.4.3-14.4.6](https://r4ds.had.co.nz/strings.html#grouped-matches), [Section 14.7](https://r4ds.had.co.nz/strings.html#stringi)
+-- | Mar 25 | HW 4 DUE <br/> HW 5 OUT
+17 | Mar 28 | More Regular Expression Tools, stringi package | [Section 14.4.3-14.4.6](https://r4ds.had.co.nz/strings.html#grouped-matches), [Section 14.7](https://r4ds.had.co.nz/strings.html#stringi)
 18 | Mar 30 | Functions | [Section 19.1-19.6](https://r4ds.had.co.nz/functions.html#introduction-12)
-19 | Apr 04 | Vectors <br/> HW 5 DUE | [Section 20.1-20.5](https://r4ds.had.co.nz/vectors.html#introduction-13)
-20 | Apr 06 | Iteration <br/> HW 6 OUT | [Section 21.1-21.5](https://r4ds.had.co.nz/iteration.html#introduction-14)
-21 | Apr 11 | A Simple Model | [Section 23.1-23.2](https://r4ds.had.co.nz/model-basics.html#introduction-15)
--- | Apr 13 | HW 6 DUE
+-- | Apr 01 | HW 5 DUE
+19 | Apr 04 | Vectors <br/> HW 6 OUT | [Section 20.1-20.5](https://r4ds.had.co.nz/vectors.html#introduction-13)
+20 | Apr 06 | Iteration | [Section 21.1-21.5](https://r4ds.had.co.nz/iteration.html#introduction-14)
+21 | Apr 11 | A Simple Model <br/> HW 6 DUE | [Section 23.1-23.2](https://r4ds.had.co.nz/model-basics.html#introduction-15)
 -- | Apr 14 | FINAL OUT
 -- | Apr 21 | FINAL DUE
