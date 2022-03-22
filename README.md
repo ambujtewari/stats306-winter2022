@@ -105,7 +105,8 @@ Lecture No. | Date | Topic | Reading Assignment
 14 | Mar 14 | String Basics | [Section 14.1-14.2](https://r4ds.had.co.nz/strings.html#introduction-8)
 15 | Mar 16 | Regular Expressions (Basics, Anchors, Character Classes, Alternatives) <br/> HW 4 OUT| [Section 14.3.1-14.3.3](https://r4ds.had.co.nz/strings.html#basic-matches)
 16 | Mar 21 | Regular Expressions (Repetition, Grouping, Detecting, Extracting) | [Section 14.3.4-14.3.5](https://r4ds.had.co.nz/strings.html#repetition), [Section 14.4.1-14.4.2](https://r4ds.had.co.nz/strings.html#detect-matches)
--- | Mar 23 | HW 4 DUE
+-- | Mar 23 | NO LECTURE
+-- | Mar 25 | HW 4 DUE
 17 | Mar 28 | More Regular Expression Tools, stringi package <br/> HW 5 OUT| [Section 14.4.3-14.4.6](https://r4ds.had.co.nz/strings.html#grouped-matches), [Section 14.7](https://r4ds.had.co.nz/strings.html#stringi)
 18 | Mar 30 | Functions | [Section 19.1-19.6](https://r4ds.had.co.nz/functions.html#introduction-12)
 19 | Apr 04 | Vectors <br/> HW 5 DUE | [Section 20.1-20.5](https://r4ds.had.co.nz/vectors.html#introduction-13)
