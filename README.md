@@ -108,7 +108,7 @@ Lecture No. | Date | Topic | Reading Assignment
 -- | Mar 23 | NO LECTURE
 -- | Mar 25 | HW 4 DUE <br/> HW 5 OUT
 17 | Mar 28 | More Regular Expression Tools, stringi package | [Section 14.4.3-14.4.6](https://r4ds.had.co.nz/strings.html#grouped-matches), [Section 14.7](https://r4ds.had.co.nz/strings.html#stringi)
-18 | Mar 30 | Functions | [Section 19.1-19.6](https://r4ds.had.co.nz/functions.html#introduction-12)
+18 | Mar 30 <br/> V | Functions | [Section 19.1-19.6](https://r4ds.had.co.nz/functions.html#introduction-12)
 -- | Apr 01 | HW 5 DUE
 19 | Apr 04 | Vectors <br/> HW 6 OUT | [Section 20.1-20.5](https://r4ds.had.co.nz/vectors.html#introduction-13)
 20 | Apr 06 | Iteration | [Section 21.1-21.5](https://r4ds.had.co.nz/iteration.html#introduction-14)
