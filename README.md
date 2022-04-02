@@ -113,6 +113,6 @@ Lecture No. | Date | Topic | Reading Assignment
 19 | Apr 04 | Vectors | [Section 20.1-20.5](https://r4ds.had.co.nz/vectors.html#introduction-13)
 20 | Apr 06 | Iteration <br/> HW 6 OUT | [Section 21.1-21.5](https://r4ds.had.co.nz/iteration.html#introduction-14)
 21 | Apr 11 | A Simple Model | [Section 23.1-23.2](https://r4ds.had.co.nz/model-basics.html#introduction-15)
--- | APr 13 | HW 6 DUE 
+-- | Apr 13 | HW 6 DUE 
 -- | Apr 14 | FINAL OUT
 -- | Apr 21 | FINAL DUE
