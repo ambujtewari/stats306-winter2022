@@ -10,9 +10,10 @@
 - There are a total of 4 problems. Make sure you look at the entire exam.
 - Make sure you only edit cells explicitly marked as solution cells.
 - Like homeworks, upload the **pdf** version of your completed exam before the due date. You will be graded on the basis of the pdf version. Please ensure that your code and your output is clearly visible. If some of the code *we* supplied gets cut off, that's OK. **Also make sure that ALL cells your notebook run without errors PRIOR TO generating the pdf**.
+- You may find that [binder](http://mybinder.org/v2/gh/ambujtewari/stats306-winter2022/main) does a better job of generating a pdf than google colab. However, binder is a free service with unpredictable availability. Another reason to **start working on the exam as early as possible**. Do not push your work to the last day!
 - However, unlike homeworks, please **ALSO submit the actual notebook** (which has .ipynb extension). We reserve the right to ignore the notebook and only grade your exam based on the pdf you upload.
 - Make sure these packages are loaded: `tidyverse`
-- To ask clarification questions use the `#final` channel in slack. If you ask privately we will post the questions and answer publicly (after removing your name)
+- To ask clarification questions use the `#final` channel in slack. If you ask privately we will post the questions and answer publicly (after removing your name). We might not be able to answer questions on the last day (April 21). Please start early!
 
 # List of allowed resources
 
