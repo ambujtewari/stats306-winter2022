@@ -31,3 +31,9 @@ You are allowed to use R in RStudio or a Jupyter notebook running on your comput
 - tidyverse website: https://www.tidyverse.org/
 - R documentation website: https://www.rdocumentation.org/
 - R Studio website: https://www.rstudio.com/
+
+# Errata
+
+I will post here all errors that were pointed out by students and corrected.
+
+- Problem 4, part 1: "Add a new column `new_heights`" should be "Add a new column `new_height`"
