@@ -36,5 +36,6 @@ You are allowed to use R in RStudio or a Jupyter notebook running on your comput
 
 I will post here all errors that were pointed out by students and corrected. These are listed in the order they were detected and corrected (newest at the top).
 
+- Problem 4, part 5, third bullet: "zero of more ocurrences" should be "zero or more occurrences"
 - Problem 4, part 4: "Create a tibble named `height_prob`" should be "Create a tibble named `heights_prob`"
 - Problem 4, part 1: "Add a new column `new_heights`" should be "Add a new column `new_height`"
