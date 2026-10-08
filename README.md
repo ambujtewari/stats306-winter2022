@@ -75,15 +75,24 @@ Students may experience stressors that can impact both their academic experience
 ## Syllabus
 
 Introduction to Data Science
+
 Data Visualization: Aesthetic mappings, scatter plots, facets, geometric objects, statistical transformations, position adjustments, coordinates
+
 Data Transformation: Filtering, arranging, selecting, mutating, summarizing, grouping, pipes
+
 Exploratory Data Analysis (EDA): Visualizing distributions, typical and unusual values, missing values, covariation
+
 Tibbles and Data Import
+
 Tidy Data: Pivoting, separating and uniting variables, handling missing values
+
 Strings and Regular Expressions: String basics, pattern matching, anchors, character classes, alternatives, repetition, grouping, detection, extraction, stringi
+
 Functions
+
 Vectors
+
 Iteration
+
 Introduction to Modeling: A simple model
--- | Apr 14 | FINAL OUT
--- | Apr 21 | FINAL DUE
+
