@@ -72,47 +72,18 @@ If you think you need accommodation for a disability, please let me know at your
 
 Students may experience stressors that can impact both their academic experience and their personal well-being. These may include academic pressures and challenges associated with relationships, mental health, alcohol or other drugs, identities, finances, etc. If you are experiencing concerns, seeking help is a courageous thing to do for yourself and those who care about you. If the source of your stressors is academic, please contact me so that we can find solutions together. For personal concerns, U-M offers a variety of resources, many which are listed on the [Resources for Student Well-being](https://wellbeing.studentlife.umich.edu/resources-list) webpage. You can also search for additional well-being resources [here](https://wellbeing.studentlife.umich.edu/well-being-resources). 
 
-## Schedule
+## Syllabus
 
-_Note_: A "V" in the date column denotes a virtual lecture
-
-Lecture No. | Date | Topic | Reading Assignment
---- | --- | --- | ---
-00 | Jan 05 | Introduction | [Chapter 1](https://r4ds.had.co.nz/introduction.html)
-01 | Jan 10 <br/> V | Data Visualization (Aesthetic Mappings, Scatter Plots) | [Section 3.1-3.4](https://r4ds.had.co.nz/data-visualisation.html#introduction-1)
-02 | Jan 12 <br/> V | Data Visualization (Facets, Geometric Objects) | [Section 3.5-3.6](https://r4ds.had.co.nz/data-visualisation.html#facets)
--- | Jan 15 | HW 1 OUT
--- | Jan 17 | MLK Jr. Day
-03 | Jan 19 <br/> V | Data Visualization (Statistical Transformations, Position Adjustments, Coordinates) | [Section 3.7-3.10](https://r4ds.had.co.nz/data-visualisation.html#statistical-transformations)
--- | Jan 22 | HW 1 DUE
-04 | Jan 24 <br/> V | Data Transformation (filter, arrange, select) | [Chapter 4](https://r4ds.had.co.nz/workflow-basics.html), [Section 5.1-5.4](https://r4ds.had.co.nz/transform.html#introduction-2)
-05 | Jan 26 <br/> V | Data Transformation (mutate) | [Section 5.5](https://r4ds.had.co.nz/transform.html#add-new-variables-with-mutate)
-06 | Jan 31 | Data Transformation (summarize, pipes) | [Section 5.6](https://r4ds.had.co.nz/transform.html#grouped-summaries-with-summarise), [Chapter 18](https://r4ds.had.co.nz/pipes.html)
--- | Jan 31 | HW 2 OUT
-07 | Feb 02 <br/> V | EDA (Visualizing Distributions) | [Section 7.1-7.2](https://r4ds.had.co.nz/exploratory-data-analysis.html#introduction-3), [Section 7.3.1](https://r4ds.had.co.nz/exploratory-data-analysis.html#visualising-distributions)
-08 | Feb 07 | EDA (Typical and Unusual Values, Missing Values) | [Section 7.3.2-7.3.3](https://r4ds.had.co.nz/exploratory-data-analysis.html#typical-values), [Section 7.4](https://r4ds.had.co.nz/exploratory-data-analysis.html#missing-values-2)
--- | Feb 07 | HW 2 DUE <br/> HW 3 OUT
-09 | Feb 09 | EDA (Covariation) | [Section 7.5](https://r4ds.had.co.nz/exploratory-data-analysis.html#covariation), [Section 7.7](https://r4ds.had.co.nz/exploratory-data-analysis.html#ggplot2-calls)
-10 | Feb 14 | Tibbles and Data Import | [Section 10.1-10.4](https://r4ds.had.co.nz/tibbles.html#introduction-4), [Section 11.1-11.2](https://r4ds.had.co.nz/data-import.html#introduction-5), [Section 11.5](https://r4ds.had.co.nz/data-import.html#writing-to-a-file)
--- | Feb 14 | HW 3 DUE
-11 | Feb 16 | Midterm review |
--- | Feb 18 | MIDTERM OUT
--- | Feb 25 | MIDTERM DUE 
--- | Feb 26 | SPRING BREAK BEGINS
--- | Mar 06 | SPRING BREAK ENDS
-12 | Mar 07 | Tidy Data, Pivoting | [Section 12.1-12.3](https://r4ds.had.co.nz/tidy-data.html#introduction-6)
-13 | Mar 09 | Grouped Mutate, Separate and Unite, Missing Values | [Section 5.7](https://r4ds.had.co.nz/transform.html#grouped-mutates-and-filters), [Section 12.4-12.5](https://r4ds.had.co.nz/tidy-data.html#separating-and-uniting)
-14 | Mar 14 | String Basics | [Section 14.1-14.2](https://r4ds.had.co.nz/strings.html#introduction-8)
-15 | Mar 16 | Regular Expressions (Basics, Anchors, Character Classes, Alternatives) <br/> HW 4 OUT| [Section 14.3.1-14.3.3](https://r4ds.had.co.nz/strings.html#basic-matches)
-16 | Mar 21 | Regular Expressions (Repetition, Grouping, Detecting, Extracting) | [Section 14.3.4-14.3.5](https://r4ds.had.co.nz/strings.html#repetition), [Section 14.4.1-14.4.2](https://r4ds.had.co.nz/strings.html#detect-matches)
--- | Mar 23 | NO LECTURE
--- | Mar 25 | HW 4 DUE <br/> HW 5 OUT
-17 | Mar 28 | More Regular Expression Tools, stringi package | [Section 14.4.3-14.4.6](https://r4ds.had.co.nz/strings.html#grouped-matches), [Section 14.7](https://r4ds.had.co.nz/strings.html#stringi)
-18 | Mar 30 <br/> V | Functions | [Section 19.1-19.6](https://r4ds.had.co.nz/functions.html#introduction-12)
--- | Apr 01 | HW 5 DUE
-19 | Apr 04 <br/> V | Vectors | [Section 20.1-20.5](https://r4ds.had.co.nz/vectors.html#introduction-13)
-20 | Apr 06 | Iteration <br/> HW 6 OUT | [Section 21.1-21.5](https://r4ds.had.co.nz/iteration.html#introduction-14)
-21 | Apr 11 | A Simple Model | [Section 23.1-23.2](https://r4ds.had.co.nz/model-basics.html#introduction-15)
--- | Apr 13 | HW 6 DUE 
+Introduction to Data Science
+Data Visualization: Aesthetic mappings, scatter plots, facets, geometric objects, statistical transformations, position adjustments, coordinates
+Data Transformation: Filtering, arranging, selecting, mutating, summarizing, grouping, pipes
+Exploratory Data Analysis (EDA): Visualizing distributions, typical and unusual values, missing values, covariation
+Tibbles and Data Import
+Tidy Data: Pivoting, separating and uniting variables, handling missing values
+Strings and Regular Expressions: String basics, pattern matching, anchors, character classes, alternatives, repetition, grouping, detection, extraction, stringi
+Functions
+Vectors
+Iteration
+Introduction to Modeling: A simple model
 -- | Apr 14 | FINAL OUT
 -- | Apr 21 | FINAL DUE
